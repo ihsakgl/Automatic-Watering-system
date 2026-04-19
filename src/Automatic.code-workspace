@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Projects/Automatic"
+		},
+		{
+			"name": "Automatic",
+			"path": ".."
+		},
+		{
+			"name": "Servo",
+			"path": "../../Servo"
+		}
+	],
+	"settings": {}
+}
